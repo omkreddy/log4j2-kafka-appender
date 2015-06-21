@@ -54,6 +54,6 @@ New java producer configaration properties (https://kafka.apache.org/documentati
 </Appenders>
 ```
 
-
-
+##Limitations
+1. Currently this appender does not support PatternLayouts
 
