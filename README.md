@@ -4,6 +4,15 @@ Kafka appender for log4j2. This appender uses new java kafka producer api for be
 ##Build
 ./gradlew jar //to generate jar
 
+##Maven
+```xml
+<dependency>
+  <groupId>com.github.omkreddy</groupId>
+  <artifactId>log4j2-kafka-appender</artifactId>
+  <version>1.0</version>
+</dependency>
+```
+
 ##Usage
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
